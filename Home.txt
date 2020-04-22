@@ -1,0 +1,491 @@
+![](RackMultipart20200422-4-zzo1ze_html_f18b075b61c3e028.jpg)
+
+**REALWEAR HMT-1 QUICK START GUIDE**
+
+1.
+# About the RealWear HMT-1 and HMT-1Z1
+
+**The HMT-1**
+
+RealWear HMT-1 is the first-generation head mounted rugged tablet. You can operate the tablet
+
+completely hands-free using only voice commands and head gestures This hands-free operation is
+
+done using WearHF™ software, built into every RealWear device. The HMT-1 runs on Android 6.0.
+
+**The HMT-1Z1**
+
+The RealWear HMT-1Z1 is the world&#39;s first hands-free Android™ tablet class wearable computer for industrial workers and is an intrinsically safe IECEx Zone 1 and CSA C1/D1 certified fully rugged head-mounted device.
+
+(See _IECEx EPS 17.0004X-1_)
+
+  1.
+## RealWear HMT-1 Device Overview
+
+![](RackMultipart20200422-4-zzo1ze_html_273cf2b700ba85d1.png)
+
+_Figure 1 - RealWear HMT-1 Front View_
+
+| **Item Descriptions** |
+| --- |
+| 1. Removable Head Pad -Supports the device on the rear and side of the head. |
+| --- |
+| 2. Overhead strap - Supports HMT-1 on the head. |
+| 3. Mic B1 |
+| 4. Shoulder Joint |
+| 5. Flashlight |
+| 6. Display Pod |
+| 7. Mic A1 |
+| 8. Mic A2 (on opposite side) |
+| 9. Wrist Joint Locking Ring -Supports and helps to reposition the display pod |
+| 10. Boom Arm - Supports and helps to reposition the display pod |
+| 11. Camera pod Holds a camera to take photos and videos. |
+| 12. Elbow Joint - Supports and helps to reposition the display pod. |
+| 13. Micro SD Card Slot Cover - Holds the microSD card. (limited to 256gb for the HMT-1 and 64gb for the HMT-1Z1) |
+| 14. Action Button - Context-related operations.Functions as Home button to return to the Home screen from any screen&#39; should be the description of the &quot;Action Button&quot;. |
+| 15. Power Button - Places the device in sleep mode and wakes up the device. When pressed for a few seconds, this Powers the device on and off. |
+| 16. Speaker - Outputs audio from the HMT-1. |
+| 17. Speaker (on opposite side) |
+
+_Table 1 - Item Description - Front View_
+
+![](RackMultipart20200422-4-zzo1ze_html_f6488efb712121d8.png)
+
+_Figure 2 - RealWear HMT-1 Rear View_
+
+| **Item Descriptions – HMT-1** |
+| --- |
+| 1. Mic B2 |
+| --- |
+| 2. Battery Compartment - Holds rechargeable battery (HMT-1 only) |
+| 3. Battery Cap - Gives access to the rechargeable battery |
+| 4. Micro USB Data &amp; Charging Port - Connects HMT-1 to a computer — for data transfer and ADB interface. |
+| 5. Display Window Holds the main LCD display to operate the HMT-1. |
+| 6. Audio Jack - Connects to audio device using 3.5 mm audio jack. |
+| 7. USB-C Charging Port - Connects to the USB type C charger. |
+
+_Table 2 - Item Description - Rear_
+
+![](RackMultipart20200422-4-zzo1ze_html_57d515e68bb9aff6.png)
+
+_Figure 3_
+
+_ **Important Note: Item 19 – Micro USB port is the port that provides the ADP / PC Connection Interface.** _
+
+![](RackMultipart20200422-4-zzo1ze_html_2169138d5337723c.png)
+
+_Figure 4 - RealWearHMT-1Z1 Rear View_
+
+_ **Important Note: The HMT-1Z1 differs from the HMT-1. Refer to the below table. The HMT-1Z1 does not have a removable battery and utilises a different charging cable than the HMT-1.** _
+
+| **Item Descriptions – HMT-1Z1** |
+| --- |
+| 1. Mic B2 |
+| --- |
+| 2. Micro USB Data &amp; Charging Port - Connects HMT-1 to a computer — for data transfer and ADB interface. |
+| 3. Display Window Holds the main LCD display to operate the HMT-1. |
+| 4. Audio Jack - Connects to audio device using 3.5 mm audio jack. |
+
+_Table 3 - HMT-1Z1 - Item Description - Rear_
+
+  1.
+## Action Button and Power Button
+
+There are 2 buttons on the side of the boom arm side of the device Figure 5- Action Button and Power Button. The smaller, silver, circular button is the power button. Use this button to turn on the device, turn off, put to sleep, or wake up.
+
+The action button is the large, textured button beside the power button, and serves multiple purposes. A single tap serves as a failsafe method of returning you to your home screen. Three quick, consecutive taps will toggle the microphone array between front and back configurations.
+
+Pressing and holding the action button will open the Language Select menu and will cycle through a list of supported languages. Release the button to select your desired language
+
+![](RackMultipart20200422-4-zzo1ze_html_e08f511556e47bda.jpg)
+
+_Figure 5- Action Button and Power Button_
+
+![](RackMultipart20200422-4-zzo1ze_html_70ea9f2d0b72a27.jpg)
+
+_Figure 6 - MicroSD Card Door_
+
+HMT units supplied by OFI will come pre-fitted with an SD card.
+
+  1.
+## HMT-1 Charging
+
+To charge the HMT-1 battery while installed in the HMT-1, use the included Wall Charger and USB-C cable.
+
+- A Red light means the battery is extremely low or dead.
+- A Yellow light means the battery is less than 100% and charging.
+- A Green light means the battery is full.
+- The battery icon will &#39;fill up&#39; indicating its state of charge.
+
+**To recharge the battery on the HMT-1:**
+
+Connect a USB Type-C charging cable or a micro-USB type cable between the head unit and either a wall charger or an outlet on your PC
+
+The power button LED will blink throughout the charging cycle, changing color from Red to Yellow to Green, depending on the amount the battery has charged. Green signifies a full charge.
+
+  1.
+## HMT-1Z1 Charging
+
+_ **Important Note: The USB cable included with the HMT-1Z1 is a special microUSB cable for data transfer and charging. It includes a safety box that protects the HMT-1Z1&#39;s safety circuits from power surges. These surges can damage the HMT-1Z1 and may occur when connecting the HMT-1Z1 to computers, wall chargers, car chargers, and other power sources that are not certified or approved as intrinsically safe. It is the only cable approved for charging the HMT-1Z1 and for moving files to and from the HMT-1Z1.** _
+
+1.
+# Wearing the HMT
+
+  1.
+## Determining Left- or Right-Eye Configuration and Dominance
+
+![](RackMultipart20200422-4-zzo1ze_html_311536209ab22c87.png)
+
+_Figure 7 - Left or Right Configuration_
+
+First, it is important to determine your dominant eye, to do so, follow the simple instructions below. Viewing the HMT&#39;s display with your dominant eye will allow for the most clear and comfortable use of the device.
+
+Eye dominance is the tendency to prefer visual input from one eye to the other. It is best to use your dominant eye when viewing the display.
+
+![](RackMultipart20200422-4-zzo1ze_html_4eea7ecdbc41ac79.png)
+
+_Figure 8 - Form a Triangle_
+
+**To determine which eye is dominant:**
+
+1. Form a triangle with your hands placed together at arms length.
+2. 2. With both eyes open, focus on any distant object centered in the triangle.
+3. Maintaining focus on the object centered in the triangle, close your right eye.
+4. If the object is still in the triangle, you are left eye dominant.
+5. Maintaining focus on the object centered in the triangle, close your left eye.
+6. If the object is still in the triangle, you are right eye dominant.
+7. If the object is in the triangle with either eye then you are dominant eye neutral.
+8. Repeat test to confirm.
+
+  1.
+## Ready the RealWear HMT Prior to Wearing
+
+![](RackMultipart20200422-4-zzo1ze_html_d24528de88bdf484.png)
+
+_Figure 9 - &#39;Z&#39; Configuration of the HMT_
+
+Before wearing, hold the HMT level with the boom-arm/display on the left or right, whichever is your dominant eye side. Bend the boom so it forms a slight &quot;Z&quot; shape as shown in Figure 9 - &#39;Z&#39; Configuration of the HMT. For a quick video guide please see the following link: [https://realwear.com/support/](https://realwear.com/support/)
+
+  1.
+## Headwear and Mounting of the HMT
+
+_ **Important Note: Prior to wearing the HMT, ensure proper head-mounting accessories are in place.** _
+
+_Depending on your intended use case, the Hard Hat of Direct head mounted wear option will be chosen._
+
+![](RackMultipart20200422-4-zzo1ze_html_6b5d390ead821048.png)
+
+_Figure 10 - Hard Hat Use Case_
+
+**Hard Hat Use Case:**
+
+1. Hook the Hard Hat Clips into the HMT band and snap them into place.
+2. Slide the clips into the hard hat accessory slots; the HMT band should sit outside of the hard hat&#39;s harness.
+3. Put on the hard hat and if applicable, tighten until secure and comfortable.
+4. To remove the HMT from the hard hat, pinch the clip fingers and push the clip out of the hard hat slots.
+
+**Direct Wear Use Case:**
+
+![](RackMultipart20200422-4-zzo1ze_html_50cb503fe9d29bb1.png)
+
+_Figure 11 - Mount the Rear Pad and Overhead Strap_
+
+1. The Rear Pad snaps onto the HMT&#39;s rear band; align the openings on the Rear Pad to the pegs on the HMT&#39;s rear band, and snap into place.
+2. Insert the end of the strap into the inside slot on both sides of the HMT as shown. Fold the end back on itself and secure using the Velcro patch.
+3. The overhead strap is shown in Figure 12 - Overhead Strap
+
+_ **Important Note: for a better fit, move the overhead strap to the forehead instead of over the top of the head.** _
+
+![](RackMultipart20200422-4-zzo1ze_html_1d317a00fa64551f.png)
+
+_Figure 12 - Overhead Strap_
+
+  1.
+## Fitting the HMT
+
+1. Adjust the head strap or mounted headwear so that the device is not hanging too low, it should be positioned right along your temple area, above your ears.
+2. Move the display pod into position. For the optimal experience it is recommended that the display is close to the center line of your face, in front of and close to your eye.
+3. Ensure that the display pod is not positioned too far to the outside or too far in front of your eye.
+
+![](RackMultipart20200422-4-zzo1ze_html_9af1879e99d12500.png)
+
+![](RackMultipart20200422-4-zzo1ze_html_93a9fb217be1899a.png)
+
+_Figure 13 - Position of the Display Pod_
+
+1. Then holding the boom arm with one hand and holding the back of the HMT with the other, push the display pod inward so that it is close to, in front of and slightly below your eye.
+
+![](RackMultipart20200422-4-zzo1ze_html_9d03f2de695d223e.png)
+
+_Figure 14 - Centre Line Positioning of the HMT Display Pod_
+
+  1.
+## Turn on the HMT
+
+1. If not turned on already, press and hold down the power button for about three seconds then release the power button. The power button is the round silver button on the same side of the HMT as the boom arm/display.
+2. In about ten to fifteen seconds you will hear a sound as the start-up sequence completes. The HMT is now powered on and ready to wear. You should now be able to see the screen.
+
+  1.
+## Tune the Display and Camera
+
+1. After positioning the HMT-1, adjust the display pod about 1-2 inches from the eye. Position the display pod below the line of sight for viewing the display screen clearly. Move the display pod forward or backward to view the entire display screen
+2. It is best to tilt and rotate the display pod to make minor adjustments.
+
+![](RackMultipart20200422-4-zzo1ze_html_88d682ffb320a617.png)
+
+_Figure 15 - Tilt and Rotate the display to fine tune_
+
+1. Make sure that the display pod is rotated so that all four corners of the screen are clearly visible to your eye. With your HMT powered on, and the display pod positioned correctly, you will see the entire HMT Home Screen.
+2. When you are ready to use the camera, you will need to make some final adjustments so that the view of the camera is forward and unobstructed
+
+![](RackMultipart20200422-4-zzo1ze_html_9592092d4ba46c8a.png)
+
+_Figure 16 - Fine tuning of the Camera Display_
+
+_ **Important Note: If you are not able to clearly see what is on screen, review how your device and display setup - double check the fitting of the strap or headwear and if your display is correctly setup for your dominant eye. You should not have to close one eye or squint.** _
+
+_ **A mirror is useful for fine tuning the display, the camera and the fitment of the HMT unit.** _
+
+1.
+# Realwear Companion App
+
+To assist setup of the device, you may use the Realwear Companion app on you phone. This will help set up your device on your local network.
+
+  1.
+## Setting up your network
+
+Download the app from the app store and follow these steps:
+
+1. Open the app on your phone
+2. Select Configuration
+3. Select Wireless Network Setup
+4. Select your network or enter the SSID of the network in &quot;Enter network name&quot;
+5. Set network security
+6. Enter the network security key
+7. Click generate code
+
+On your Realwear device, follow these steps:
+
+1. Go to &quot;My Programs&quot;
+2. Go to &quot;Configuration&quot;
+3. Scan the QR code generated by your phone
+
+Your device will now connect to the desired network.
+
+1.
+# Using the HMT-1
+
+  1.
+## Commands Introduction
+
+&quot; **Speech Recognition — Say What You See&quot;**
+
+HMT-1 operates based on speech recognition and head-based gestures.
+
+Instead of pressing or tapping a control button on the screen, you speak the name of the respective control or move your head to point at the item.
+
+You can activate the device by speaking the name of any control.
+
+I.e. the Home Screen has 3 large icons with respective feature names. To access these applications, you can say the application name and the corresponding screen is launched.
+
+_ **Important Note: When setting up the camera or using the HMT, when holding the display unit, the microphones sometimes get covered up and will restrict voice commands.** _
+
+  1.
+## Global Commands
+
+HMT-1 can also recognize certain voice commands that can be activated from any screen. These are known as global commands. The following is a list of global commands in English. For global commands in other languages, refer to the respective user guide.
+
+| **Voice Command** | **Action** |
+| --- | --- |
+| &quot;Navigate Home&quot; | Navigates to Home Screen. |
+| --- | --- |
+| &quot;Navigate Back&quot; | Navigates to previous screen. |
+| &quot;My Controls&quot; | Navigates to system control panel. |
+| &quot;Mute Microphone&quot; | Mutes the microphone&#39;s voice command detection until the &quot;Action&quot; button is pressed. |
+| &quot;My Notifications&quot; | Opens Notification section. |
+| &quot;Recent Applications&quot; | Opens Applications running in background. Say &quot;Dismiss all&quot; to close all the open applications. |
+| &quot;Show Help&quot; | Displays pop-up window with the help for commands associated with the current screen. This command will work in any screen at any time |
+| &quot;Hide Help&quot; | Hides the pop-up help window |
+
+_Table 4 - Global Voice Commands_
+
+  1.
+## Context Commands
+
+While in some applications, contextual commands will become available. An example of this is reading a PDF document, you may use:
+
+| **Voice Command** | **Action** |
+| --- | --- |
+| &quot;Page Up&quot; | Navigates to 1 page up. |
+| &quot;Page Down&quot; | Navigates to 1 page down |
+| &quot;Page Left&quot; | Navigates to 1 page left. |
+| &quot;Page Right&quot; | Navigates to 1 page right. |
+| &quot;Zoom Level x&quot; (where x is 1-5) | Zooms in on the page |
+| &quot;Scroll Enable&quot; | From screens with a scroll view, you can say the command &quot;SCROLL ENABLE&quot;. |
+| &quot;Scroll Disable&quot; | Disables the Scroll with head function |
+| &quot;Freeze Window&quot; | Prevents the document from scrolling in response to head gestures. |
+| &quot;Control Window&quot; | Unfreezes the document and enables document scrolling in response to head gestures. |
+| &quot;Reset Window&quot; | Moves the zoomed in window to the center of the full size image/document. |
+
+_Table 5 - Context Voice Commands_
+
+More commands will show up as part of each program if commands become available. It is recommended to read the documentation of each application to understand how to use the speech recognition in those applications.
+
+Some interfaces leverage head movement to browse options, use the scroll function for this ability.
+
+  1.
+## Speech Keyboard
+
+Speech Keyboard is the default method by which text may be entered into a text field using the HMT-1 or HMT-1Z1.
+
+Whenever a text entry screen is brought into focus or selected, the hands-free keyboard is displayed overlaying part of the application.
+
+Speech keyboard provides various input methods:
+
+| **Voice Command** | **Action** |
+| --- | --- |
+| &quot;SECURE ENTRY&quot; | Toggles to Secure Entry mode |
+| --- | --- |
+| &quot;NORMAL ENTRY&quot; | Toggles to Normal Entry Mode |
+| &quot;SCAN CODE&quot; | Allows user to scan QR code for text entry To set the zoom level for clear scanning say &quot;Zoom level 1-5&quot;. For example, to set the zoom level to 3, say &quot;Zoom level 3&quot;. |
+| &quot;DICTATION&quot; | Activates dictation and allows user to enter text based on speech recognition. |
+| &quot;NUMBERS&quot; | Toggles to the Number Keyboard |
+| &quot;SYMBOLS&quot; | Toggles to the Symbol Keyboard |
+| &quot;LETTERS&quot; | Toggles to the Letter Keyboard |
+| &quot;ACCEPT&quot; | Accepts the entered information and navigates to the next screen in sequence. |
+| &quot;SPACEBAR&quot; | Inserts a single space. |
+| &quot;BACKSPACE&quot; | Deletes the last character. |
+| &quot;CLEAR TEXT&quot; | Clears the text in the Input box. |
+| &quot;CAPS LOCK&quot; | Toggles between Uppercase and Lowercase letters |
+| &quot;ABC MODE&quot; | Toggles to the ABC Mode keyboard |
+| &quot;LETTER [a-z]&quot; | Starts a text string as spoken by the user. For example &quot;LETTER X Z Y&quot; will enter the text &#39;xzy&#39; to the field. |
+| &quot;NUMBER [0-9]&quot; | Starts a number string as spoken by the user. For example &quot;NUMBER 4 7 2&quot; will enter the number &#39;472&#39; to the field. |
+| &quot;SYMBOL [?]&quot; | Starts a symbol string as spoken by the user. For example &quot;SYMBOL UNDERSCORE DOLLAR QUOTE&quot; will enter &#39;\_$&quot;&#39; to the field. |
+| &quot;MORE OPTIONS&quot; | Displays the &quot;NORMAL ENTRY&quot;/&#39;SECURE ENTRY&#39;, &#39;DICTATION&#39; and &#39;SCAN CODE&#39; commands |
+| &quot;CLOSE KEYBOARD&quot; | Closes the Speech Keyboard |
+| &quot;SHOW HELP&quot; | Displays pop-up window with the help for commands associated with the current screen. |
+
+_Table 6 - Speech Keyboard Voice Commands_
+
+    1.
+### Normal Entry Keyboard
+
+The Normal Entry Keyboard opens in the letter list. Scroll left or right to see the code word associated with the character.
+
+To switch to the Numbers keyboard, say &quot; **NUMBERS**&quot;.
+
+To switch to the Symbols keyboard, say &quot; **SYMBOLS**&quot;.
+
+_EXAMPLE: Saying &quot;ROMEO ECHO ALPHA LIMA WHISKEY ECHO ALPHA ROMEO&quot; in one breath without break will enter &#39;realwear&#39; into the text field._
+
+The letter does not have to be in the focus square in order to say each code word. You may speak the phonetic commands for letters either individually or as a group. For instance, you could enter one character at a time by saying &quot;ROMEO&quot;, then saying &quot;ECHO&quot; once the &quot;R&quot; character has registered, or you could enter an as many letters as is needed with one command.
+
+_ **Important Note: Remember the command &#39;SPACEBAR&#39; is part of all three Normal Entry lists; you can say that at any time to add a space.** _
+
+    1.
+### Secure Entry Keyboard
+
+When a password field is selected, the Secure Entry keyboard appears. This means that phonetic speech commands are disabled, and the user instead uses head movements, left or right, to highlight a character.
+
+_ **Important Note: The user then says &quot;SELECT&quot; to make a selection.** _
+
+    1.
+### Scan Code
+
+Saying the command &quot; **SCAN CODE**&quot; opens the barcode reader and allows the user to scan a QR Code for remote keyboard entry using the RealWear Companion app on a mobile phone.
+
+You can also access the &quot;SCAN CODE&quot; option by saying &quot; **MORE OPTIONS**&quot;.
+
+    1.
+### Dictation
+
+For Speech-to-Text entry, say &quot; **DICTATION**&quot;, then immediately begin speaking freely.
+
+_ **Important Note: Dictation is cloud-based for all languages, so an internet connection may be required.** _
+
+You can also access the &quot;DICTATION&quot; option by saying &quot;MORE OPTIONS&quot;.
+
+For more information, please visit www.realwear.com/support.
+
+_ **Important Note: If the keyboard becomes hidden or accidentally closed, use the &quot;SELECT ITEM #&quot; command to select the text field again and the speech keyboard will reappear. If entering a password for WiFi authentication, simply say &quot;PASSWORD&quot; to activate the speech keyboard.** _
+
+    1.
+### ABC Mode Keyboard
+
+_ **Important Note: For longer text entry situations Dictation Mode might be a better, quicker option.** __ **Only English is currently supported in this mode.** _
+
+To enter ABC Mode simply say &quot; **ABC MODE**&quot; while the text entry field is active.
+
+To enter letters, say &quot; **LETTER** (_desired letters here_)&quot;;
+
+- I.E &quot; **LETTER T X T R Y**&quot; to enter the string &#39;txtry&#39;.
+
+To enter numbers, say &quot; **NUMBER** (_desired numbers here_)&quot;;
+
+- I.E. &quot; **NUMBER NINE FIVE TWO**&quot; to enter the number &#39;952&#39;.
+
+_ **Important Note: Changing case, adding spaces, or adding numbers will necessitate a pause in the text string and re-use of the commands as needed.** _
+
+    1.
+### My Controls Useful Commands
+
+Within the &quot;My Controls&quot; Menu there are several functions available, useful functions include:
+
+| **Voice Command** | **Action** |
+| --- | --- |
+| &quot;MOUSE&quot; | Toggles the head-tracked mouse on or off. |
+| --- | --- |
+| &quot;AUTO ROTATE&quot; | Toggles on or off screen rotation. |
+| &quot;ACTION BUTTON&quot; | Toggles Noise Capture mode. |
+| &quot;POWER OPTIONS&quot; | Provides access to power management options. |
+| &quot;BLUETOOTH&quot; | Enable or disable bluetooth. |
+| &quot;WIRELESS NETWORK&quot; | Enable or disable wifi. |
+| &quot;FLASHLIGHT&quot; | Turn the flashlight on and off. |
+| &quot;BRIGHTNESS&quot; | Change the brightness of the display. |
+| &quot;VOLUME&quot; | Change the volume of the system. |
+| &quot;MICROPHONE&quot; | Toggles on and off the auto-mute function |
+| &quot;COLOR MODE&quot; | Toggle light and dark mode. |
+| &quot;DICTATION&quot; | Toggles between Local and Cloud-based dictation. |
+| &quot;HELP COMMAND&quot; | Toggles the visibility of the &quot;SHOW |
+| &quot;MOUSE&quot; | Toggles the head-tracked mouse on or off. |
+| &quot;AUTO ROTATE&quot; | Toggles on or off screen rotation. |
+| &quot;ACTION BUTTON&quot; | Toggles Noise Capture mode. |
+| &quot;POWER OPTIONS&quot; | Provides access to power management options. |
+| &quot;BLUETOOTH&quot; | Enable or disable bluetooth. |
+
+_Table 7 - My Controls Useful Functions_
+
+  1.
+## Turning off the HMT
+
+It is recommended that you power off your HMT device when not in use to conserve battery and ensure the longevity of the device. You can do so in two ways:
+
+**Hands Free Power Off or Reboot**
+
+1. Say &quot;MY CONTROLS&quot;
+2. Say &quot;POWER OPTIONS&quot;
+3. Say &quot;POWER DOWN&quot; or &quot;REBOOT&quot;
+
+**Manual Power Off Operation**
+
+1. Simply press and hold the silver power button on the boom-side of the device for three seconds.
+2. Release the power button as soon as the tone is heard.
+3. A Shutting Down screen will show briefly and then the device will turn off.
+
+  1.
+## Sleeping/Waking the HMT
+
+**Hands Free Sleep and Wake**
+
+1. Say &#39;&quot;MY CONTROLS&quot;
+2. Say &quot;POWER OPTIONS&quot;
+3. Say &quot;SLEEP NOW&quot;
+4. When asleep, a single, brief press of the Power Button will wake up the HMT-1.
+
+**Hands On:**
+
+1. Press, do not hold, the power button and release to sleep or wake up the device.
+
+![](RackMultipart20200422-4-zzo1ze_html_f18b075b61c3e028.jpg)
+
+15
